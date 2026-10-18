@@ -1,0 +1,15 @@
+{
+  "name": "Finance AI - Controle Financeiro",
+  "short_name": "Finance AI",
+  "description": "Controle financeiro pessoal com dashboards, previsões e análise inteligente.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f4",
+  "theme_color": "#10251e",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
