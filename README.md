@@ -22,3 +22,14 @@ Aplicativo web instalável para controle financeiro pessoal. Inclui cadastro e e
 
 ## Próxima etapa para uso real
 Para sincronização entre dispositivos, login e IA conectada, implemente backend com autenticação, banco de dados, regras de acesso e API protegida. Nunca coloque chaves secretas de IA no JavaScript publicado. Não use dados bancários reais antes de implementar controles de segurança e backup adequados.
+
+
+## Versão 1.1 — Planejamento mensal
+- Nova aba Planejamento mensal.
+- Cadastro de salário líquido previsto por mês.
+- Registro de contas fixas e gastos variáveis, com categoria e dia de vencimento.
+- Marcação de contas pagas/pendentes.
+- Cálculo do saldo planejado.
+- Cópia das contas do mês anterior para agilizar o planejamento.
+- Dados do planejamento armazenados separadamente das transações existentes.
+- Atualize o repositório incluindo `index.html`, `sw.js` e os demais arquivos desta versão.
